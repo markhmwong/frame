@@ -1,4 +1,5 @@
-# Frame
+# Frame / Onboard
+change name to Onboard
 
 Frame is an application to collate documentation of your home or investment property. The idea is Frame is a source of truth for the history of your property.
 
@@ -11,6 +12,10 @@ I bring Frame to life to expose the truths about the hard earned dollars you wil
 # Stack
 SwiftUI/SwiftData
 
+# Design
+Settings
+Main Page
+
 # Features
 Immutable history - changable by two authorised reviewers
 To do list
@@ -19,3 +24,22 @@ Photos
 Track multiple properties
 Privacy
 Become an Industry standard
+Details descriptions for
+    power plan
+    internet
+    water
+    gas
+    insurance - use AI to outline the highlights
+garden
+    history
+roof
+    insulation
+    attic
+windows
+    insulation
+floor
+    leveling
+    stumps
+    termite
+    insulation
+extension work
